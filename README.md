@@ -26,14 +26,6 @@ This Spring Boot application provides a secure and RESTful API for managing an e
 - Swagger (springdoc-openapi)
 
 ---
+![image](https://github.com/user-attachments/assets/cc8e6072-4f77-425f-b21f-89f3e06a4bbf)
+![image](https://github.com/user-attachments/assets/716f1d5d-0ef3-41f6-af4d-e0106495aa88)
 
-## 🔧 Setup Instructions
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/product-catalog-api.git
-cd product-catalog-api
-
-![image](https://github.com/user-attachments/assets/fe67ab87-436d-434c-9467-14ae8214f92c)
-![image](https://github.com/user-attachments/assets/3800aafc-f3f9-49b7-84a5-4775c5857d45)
